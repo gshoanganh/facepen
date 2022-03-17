@@ -1,11 +1,21 @@
 # Smoke Tensorflow Object Detection
 <p>This set of Notebooks was written to serve as a template for future AI projects. regarding Smoke Detection Tensorflow. <a href="https://www.youtube.com/c/GsHoangAnh">YouTube channel</a>. 
 <img src="https://github.com/gshoanganh/facepen/blob/main/photos/images-output.png?raw=true"> 
+<br/>
 ## Steps
 <br />
+<b>Step 0.</b> init
+<br/> - Create folder: tensorflow
+<br/> - open cmd, type cd tensorflow
+<br/> - run:
+<pre>
+python -m venv tfod
+</pre> 
+<br/><br/>
 <b>Step 1.</b> Clone this repository: https://github.com/gshoanganh/facepen
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
+<br/> cd facepen, run:
 <pre>
 python -m venv tfod
 </pre> 
