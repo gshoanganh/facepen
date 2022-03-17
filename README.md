@@ -44,4 +44,4 @@ and open Tensorboard with the following command
 <pre>tensorboard --logdir=. </pre>
 Tensorboard will be accessible through your browser and you will be able to see metrics including mAP - mean Average Precision, and Recall.
 <br />
-<p>(c) Gs HOang Anh</p>
+<p>(c) Gs Hoang Anh</p>
