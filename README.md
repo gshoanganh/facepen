@@ -1,4 +1,4 @@
-# Tensorflow Object Detection Walkthrough
+# Smoke Tensorflow Object Detection
 <p>This set of Notebooks was written to serve as a template for future AI projects. regarding Smoke Detection Tensorflow. <a href="https://www.youtube.com/c/GsHoangAnh">YouTube channel</a>. 
 
 ## Steps
