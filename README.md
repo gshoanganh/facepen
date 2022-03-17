@@ -1,6 +1,6 @@
 # Smoke Tensorflow Object Detection
 <p>This set of Notebooks was written to serve as a template for future AI projects. regarding Smoke Detection Tensorflow. <a href="https://www.youtube.com/c/GsHoangAnh">YouTube channel</a>. 
-
+<img src="https://github.com/gshoanganh/facepen/blob/main/photos/images-output.png?raw=true"> 
 ## Steps
 <br />
 <b>Step 1.</b> Clone this repository: https://github.com/gshoanganh/facepen
