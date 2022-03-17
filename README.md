@@ -2,7 +2,7 @@
 <p>This set of Notebooks was written to serve as a template for future AI projects. regarding Smoke Detection Tensorflow. <a href="https://www.youtube.com/c/GsHoangAnh">YouTube channel</a>. 
 <img src="https://github.com/gshoanganh/facepen/blob/main/photos/images-output.png?raw=true"> 
 <br/>
-## Steps
+# Steps
 <br />
 <b>Step 0.</b> init
 <br/> - Create folder: tensorflow
@@ -36,8 +36,10 @@ python -m ipykernel install --user --name=tfod
 <b>Step 5.</b> Collect images using the Notebook <a href="#">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below 
 <br/>
 <b>Step 6.</b> Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders. <br/>
+<pre>
 \TFODCourse\Tensorflow\workspace\images\train<br />
 \TFODCourse\Tensorflow\workspace\images\test
+</pre>
 <br/><br/>
 <b>Step 7.</b> Begin training process by opening <a href="#">2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
 <br /><br/>
@@ -53,5 +55,6 @@ If not, resolve installation errors by referring to the <a href="#">Error Guide.
 and open Tensorboard with the following command
 <pre>tensorboard --logdir=. </pre>
 Tensorboard will be accessible through your browser and you will be able to see metrics including mAP - mean Average Precision, and Recall.
+<br />
 <br />
 <p>(c) Gs Hoang Anh</p>
